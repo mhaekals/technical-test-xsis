@@ -10,6 +10,8 @@ npm start
 - Add file config.json under **config folder** containing as below
 
 ```
+# config/config.json
+
 {
   "development": {
     "username": "your_username",
